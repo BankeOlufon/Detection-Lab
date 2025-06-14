@@ -20,8 +20,15 @@ To simulate a real-world network environment for hands-on practice in threat det
 
 ## Steps
 
-*Ref 1: Install Virtualbox *
+Step 1: Install Virtualbox 
+
+<img width="873" alt="Screenshot 2025-06-13 192724" src="https://github.com/user-attachments/assets/83ce748e-48f3-40cb-83b5-a255cd8c7eb6" />
+
+Step 2: Install Windows Virtual Machine
+
+<img width="525" alt="Screenshot 2025-06-13 194451" src="https://github.com/user-attachments/assets/8fd40ab2-85ce-48d3-b68b-6e9e7a09946e" />
+
+*Ref: Download as an iso image. *
 
 
-<img src="https://i.imgur.com/yourimage.png" width="400"/>
 
